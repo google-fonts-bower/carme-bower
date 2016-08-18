@@ -1,0 +1,17 @@
+{
+    "name": "carme-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Rub\u00e9n Prol"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/carme-bower.git"
+    },
+    "description": "Carme font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
